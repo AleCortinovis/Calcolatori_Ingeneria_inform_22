@@ -1,2 +1,17 @@
+<<<<<<< Updated upstream
 prova di inserimento 
 prova scritta silvia da web, controllo scontro
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+prova di inserimento
+prova modifica di alessandra
+=======
+prova di inserimento 
+prova scritta silvia da web, controllo scontro
+>>>>>>> 925171fb2d2f044026d1e903f5318cb74abfc3b1
+=======
+prova di inserimento 
+prova scritta silvia da web, controllo scontro
+>>>>>>> 925171fb2d2f044026d1e903f5318cb74abfc3b1
+>>>>>>> Stashed changes
